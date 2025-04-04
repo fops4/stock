@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Clé USB 64Go",
+      "category": "Informatique",
+      "quantity": 120,
+      "price": 9999,
+      "supplier": "TechnoPlus",
+      "inStock": true,
+      "createdAt": { "$date": "2025-04-01T00:00:00Z" },
+      "updatedAt": { "$date": "2025-04-01T00:00:00Z" }
+    },
+    {
+      "name": "Souris sans fil",
+      "category": "Informatique",
+      "quantity": 50,
+      "price": 4500,
+      "supplier": "TechnoPlus",
+      "inStock": true,
+      "createdAt": { "$date": "2025-04-02T00:00:00Z" },
+      "updatedAt": { "$date": "2025-04-02T00:00:00Z" }
+    },
+    {
+      "name": "Casque Bluetooth",
+      "category": "Audio",
+      "quantity": 30,
+      "price": 15000,
+      "supplier": "AudioShop",
+      "inStock": false,
+      "createdAt": { "$date": "2025-04-03T00:00:00Z" },
+      "updatedAt": { "$date": "2025-04-03T00:00:00Z" }
+    }
+  ]
+  
